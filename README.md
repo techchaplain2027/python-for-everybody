@@ -1,6 +1,3 @@
-# python-for-everybody
-Coursework, notes, and Python exercises from the University of Michigan specialization
-
 # Python for Everybody 🐍
 My exercises, notes, and code samples as I complete the University of Michigan **Python for Everybody** specialization and build a foundation in machine learning and accessibility tech.
 
